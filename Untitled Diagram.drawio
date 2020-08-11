@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-11T17:20:53.533Z" agent="5.0 (Windows)" etag="cM1VhhkVaDAZt7YWyX99" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-11T17:22:36.855Z" agent="5.0 (Windows)" etag="bcMQbFOHDTK3K91UMssU" version="13.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,64 +8,68 @@
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dedGfwvwKOVRfC8kFVkt-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;4. Assembly Airfoil dengan Vortex Generator&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="100" y="260" width="200" height="40" as="geometry" />
+          <mxGeometry x="120" y="260" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dedGfwvwKOVRfC8kFVkt-20" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="680" as="sourcePoint" />
-            <mxPoint x="199.5" y="700" as="targetPoint" />
+            <mxPoint x="220" y="680" as="sourcePoint" />
+            <mxPoint x="219.5" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dedGfwvwKOVRfC8kFVkt-22" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="240" as="sourcePoint" />
-            <mxPoint x="199.5" y="260" as="targetPoint" />
+            <mxPoint x="220" y="240" as="sourcePoint" />
+            <mxPoint x="219.5" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="250" />
+              <mxPoint x="220" y="250" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dedGfwvwKOVRfC8kFVkt-24" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="300" as="sourcePoint" />
-            <mxPoint x="199.5" y="320" as="targetPoint" />
+            <mxPoint x="220" y="300" as="sourcePoint" />
+            <mxPoint x="219.5" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xh9AoII8tTs9re3ZHvOG-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="440" as="sourcePoint" />
-            <mxPoint x="199.5" y="460" as="targetPoint" />
+            <mxPoint x="220" y="440" as="sourcePoint" />
+            <mxPoint x="219.5" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xh9AoII8tTs9re3ZHvOG-3" value="6. Proses simulasi CFD" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="100" y="460" width="200" height="40" as="geometry" />
+          <mxGeometry x="120" y="460" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh9AoII8tTs9re3ZHvOG-5" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="500" as="sourcePoint" />
-            <mxPoint x="199.5" y="520" as="targetPoint" />
+            <mxPoint x="220" y="500" as="sourcePoint" />
+            <mxPoint x="219.5" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xh9AoII8tTs9re3ZHvOG-8" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="560" as="sourcePoint" />
-            <mxPoint x="199.5" y="580" as="targetPoint" />
+            <mxPoint x="220" y="560" as="sourcePoint" />
+            <mxPoint x="219.5" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xh9AoII8tTs9re3ZHvOG-9" value="8. Analisa data" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="100" y="580" width="200" height="40" as="geometry" />
+          <mxGeometry x="120" y="580" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh9AoII8tTs9re3ZHvOG-10" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="620" as="sourcePoint" />
-            <mxPoint x="199.5" y="640" as="targetPoint" />
+            <mxPoint x="220" y="620" as="sourcePoint" />
+            <mxPoint x="219.5" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xh9AoII8tTs9re3ZHvOG-11" value="9. Kesimpulan dan saran" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="100" y="640" width="200" height="40" as="geometry" />
+          <mxGeometry x="120" y="640" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh9AoII8tTs9re3ZHvOG-12" value="10. Selesai" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="140" y="700" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="diaBN6O-Q55Kr5E9x94e-0" value="&lt;div&gt;5. Masukkan batas operasi :&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Pemilihan &lt;br&gt;&lt;div&gt;external flow,&amp;nbsp; jenis fliuda,&lt;/div&gt;&lt;div&gt;kecepatan udara 90m/s dari sumbu x, &lt;/div&gt;dan penentuan global goals." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="60" y="320" width="280" height="120" as="geometry" />
+          <mxGeometry x="80" y="320" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="r6ErrRrZul-hOZkKaD8O-3" value="" style="endArrow=none;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -119,7 +123,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r6ErrRrZul-hOZkKaD8O-15" value="&lt;div&gt;7. Post processing :&lt;/div&gt;&lt;div&gt;kontur kecepatan&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="520" width="200" height="40" as="geometry" />
+          <mxGeometry x="120" y="520" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
